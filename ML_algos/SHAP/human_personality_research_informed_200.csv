@@ -1,0 +1,201 @@
+id,gender,age_group,height,body_type,has_glasses,hair_type,communication_style,sleep_pattern,humor_level,empathy_level,risk_taking,dressing_style,favorite_app,leadership,personality
+1,Female,Adult,Taller,Medium,No,Straight,Direct,Early Bird,3,5,Low,Formal,Twitter,3,Confident
+2,Other,Teen,Shorter,Skinny,Yes,Wavy,Direct,Early Bird,1,3,Medium,Casual,Instagram,5,Confident
+3,Other,Adult,Medium,Skinny,No,Curly,Diplomatic,Regular,4,2,High,Casual,Twitter,3,Friendly
+4,Female,Senior,Taller,Skinny,No,Wavy,Diplomatic,Night Owl,3,1,Medium,Casual,Reddit,4,Confident
+5,Male,Teen,Medium,Fatty,No,Curly,Direct,Regular,4,3,Low,Casual,LinkedIn,2,Friendly
+6,Male,Adult,Taller,Fatty,No,Straight,Direct,Regular,1,4,Medium,Casual,Reddit,1,Polite
+7,Male,Senior,Medium,Medium,No,Straight,Diplomatic,Regular,3,3,Medium,Formal,Reddit,2,Polite
+8,Female,Adult,Shorter,Fatty,No,Straight,Diplomatic,Night Owl,3,4,Low,Trendy,Facebook,3,Polite
+9,Female,Teen,Medium,Skinny,No,Curly,Reserved,Night Owl,2,5,High,Formal,LinkedIn,2,Polite
+10,Male,Adult,Shorter,Skinny,No,Straight,Direct,Night Owl,2,5,Low,Trendy,Discord,2,Shy
+11,Female,Teen,Medium,Skinny,No,Straight,Direct,Night Owl,3,5,High,Casual,Twitter,2,Polite
+12,Male,Adult,Shorter,Medium,No,Curly,Diplomatic,Night Owl,3,1,Low,Trendy,Reddit,3,Shy
+13,Male,Senior,Medium,Skinny,No,Wavy,Diplomatic,Night Owl,2,2,Medium,Casual,Twitter,3,Polite
+14,Other,Senior,Medium,Skinny,No,Wavy,Reserved,Night Owl,2,4,Medium,Formal,Instagram,1,Shy
+15,Female,Adult,Medium,Fatty,No,Curly,Direct,Night Owl,5,5,Low,Casual,Facebook,1,Friendly
+16,Male,Adult,Taller,Medium,No,Curly,Reserved,Night Owl,1,4,Low,Trendy,Discord,4,Shy
+17,Male,Senior,Taller,Skinny,Yes,Straight,Direct,Early Bird,1,3,Medium,Trendy,LinkedIn,2,Confident
+18,Other,Adult,Medium,Fatty,No,Wavy,Diplomatic,Regular,3,3,Medium,Trendy,Facebook,3,Friendly
+19,Male,Adult,Medium,Medium,No,Wavy,Direct,Early Bird,3,4,Low,Formal,Discord,2,Polite
+20,Female,Adult,Medium,Medium,Yes,Straight,Diplomatic,Regular,1,4,Medium,Formal,LinkedIn,4,Polite
+21,Other,Teen,Medium,Skinny,No,Wavy,Direct,Early Bird,3,4,Medium,Trendy,LinkedIn,5,Confident
+22,Male,Adult,Shorter,Skinny,No,Straight,Direct,Night Owl,3,4,Medium,Trendy,Twitter,2,Shy
+23,Male,Adult,Shorter,Medium,No,Curly,Direct,Early Bird,4,2,Low,Casual,Instagram,5,Confident
+24,Male,Teen,Shorter,Medium,No,Straight,Direct,Night Owl,3,2,High,Casual,Instagram,4,Confident
+25,Male,Adult,Medium,Medium,Yes,Straight,Direct,Regular,2,4,Low,Casual,LinkedIn,1,Polite
+26,Other,Teen,Medium,Fatty,No,Straight,Direct,Regular,2,3,Medium,Formal,Instagram,3,Confident
+27,Female,Adult,Medium,Medium,Yes,Curly,Direct,Regular,2,1,Low,Casual,Instagram,3,Confident
+28,Female,Adult,Shorter,Fatty,No,Wavy,Diplomatic,Early Bird,2,3,Medium,Casual,Twitter,2,Polite
+29,Other,Teen,Shorter,Fatty,Yes,Straight,Direct,Regular,4,1,Low,Formal,Instagram,3,Shy
+30,Female,Adult,Shorter,Medium,No,Wavy,Direct,Early Bird,4,4,Medium,Trendy,Discord,4,Confident
+31,Female,Adult,Taller,Medium,No,Wavy,Direct,Night Owl,3,1,High,Formal,Twitter,3,Confident
+32,Male,Senior,Shorter,Medium,No,Straight,Diplomatic,Early Bird,3,3,Low,Casual,Reddit,3,Polite
+33,Male,Adult,Medium,Fatty,Yes,Curly,Diplomatic,Regular,5,1,High,Casual,Twitter,3,Friendly
+34,Female,Adult,Medium,Skinny,Yes,Straight,Diplomatic,Regular,3,1,Low,Casual,Discord,2,Polite
+35,Female,Teen,Medium,Medium,No,Wavy,Diplomatic,Early Bird,3,4,Low,Casual,LinkedIn,3,Polite
+36,Female,Adult,Shorter,Fatty,No,Straight,Direct,Early Bird,3,2,Low,Formal,Twitter,3,Shy
+37,Male,Senior,Taller,Skinny,No,Curly,Reserved,Regular,3,2,Low,Trendy,Discord,1,Shy
+38,Male,Teen,Shorter,Fatty,Yes,Curly,Diplomatic,Regular,3,4,Low,Casual,Discord,2,Polite
+39,Male,Senior,Shorter,Medium,No,Straight,Diplomatic,Early Bird,4,4,Low,Formal,Instagram,4,Polite
+40,Other,Adult,Shorter,Fatty,No,Straight,Reserved,Regular,3,1,Medium,Trendy,Twitter,1,Shy
+41,Other,Adult,Medium,Fatty,No,Curly,Diplomatic,Night Owl,3,5,High,Trendy,Reddit,4,Polite
+42,Male,Adult,Shorter,Fatty,No,Wavy,Diplomatic,Regular,4,4,High,Casual,Reddit,3,Polite
+43,Female,Adult,Medium,Medium,No,Straight,Reserved,Night Owl,4,3,Low,Trendy,Facebook,4,Shy
+44,Male,Adult,Medium,Medium,No,Curly,Direct,Early Bird,3,4,High,Formal,Instagram,4,Confident
+45,Other,Adult,Medium,Fatty,Yes,Curly,Diplomatic,Regular,4,5,Medium,Formal,Instagram,1,Polite
+46,Male,Adult,Taller,Skinny,No,Curly,Diplomatic,Early Bird,3,5,Medium,Trendy,Discord,4,Confident
+47,Female,Teen,Medium,Fatty,No,Curly,Diplomatic,Night Owl,5,2,Medium,Casual,Twitter,2,Friendly
+48,Male,Teen,Taller,Fatty,Yes,Curly,Diplomatic,Regular,5,4,Medium,Trendy,Discord,1,Friendly
+49,Male,Teen,Shorter,Skinny,No,Straight,Direct,Night Owl,5,4,Low,Casual,LinkedIn,3,Shy
+50,Female,Adult,Medium,Skinny,No,Straight,Reserved,Early Bird,3,3,Low,Trendy,Twitter,2,Shy
+51,Female,Senior,Shorter,Medium,No,Curly,Direct,Regular,4,4,Medium,Casual,Instagram,3,Friendly
+52,Male,Adult,Medium,Skinny,No,Wavy,Reserved,Early Bird,2,3,High,Trendy,Discord,5,Confident
+53,Other,Senior,Medium,Skinny,No,Curly,Direct,Regular,4,2,Low,Casual,Discord,4,Confident
+54,Male,Adult,Shorter,Skinny,No,Curly,Diplomatic,Night Owl,4,4,High,Trendy,Instagram,1,Friendly
+55,Female,Adult,Shorter,Skinny,No,Curly,Direct,Night Owl,4,5,Low,Casual,LinkedIn,5,Shy
+56,Male,Adult,Taller,Fatty,No,Wavy,Direct,Early Bird,3,4,Medium,Formal,Instagram,4,Confident
+57,Other,Adult,Medium,Skinny,No,Wavy,Reserved,Night Owl,3,5,Low,Formal,LinkedIn,2,Shy
+58,Male,Senior,Taller,Medium,No,Curly,Direct,Night Owl,3,3,Medium,Trendy,LinkedIn,2,Confident
+59,Male,Adult,Medium,Fatty,No,Wavy,Reserved,Night Owl,3,5,Low,Casual,Twitter,5,Shy
+60,Other,Teen,Shorter,Skinny,No,Curly,Reserved,Early Bird,3,3,Medium,Trendy,Instagram,1,Shy
+61,Female,Adult,Medium,Skinny,No,Straight,Reserved,Night Owl,3,4,Low,Formal,Facebook,4,Shy
+62,Female,Adult,Medium,Fatty,No,Curly,Direct,Regular,1,5,Low,Trendy,Instagram,3,Confident
+63,Female,Teen,Medium,Skinny,No,Straight,Direct,Regular,5,4,Medium,Formal,Discord,5,Confident
+64,Male,Adult,Medium,Medium,No,Wavy,Diplomatic,Early Bird,1,3,Medium,Formal,Instagram,1,Polite
+65,Other,Adult,Shorter,Fatty,No,Curly,Direct,Early Bird,3,3,Low,Casual,Instagram,2,Shy
+66,Female,Teen,Taller,Skinny,No,Wavy,Diplomatic,Regular,1,2,Medium,Trendy,Reddit,3,Confident
+67,Other,Teen,Taller,Skinny,Yes,Wavy,Reserved,Night Owl,3,2,Low,Trendy,Discord,3,Shy
+68,Male,Adult,Medium,Medium,Yes,Straight,Direct,Night Owl,2,4,Low,Trendy,LinkedIn,1,Shy
+69,Other,Adult,Medium,Skinny,No,Wavy,Diplomatic,Regular,4,1,Low,Casual,LinkedIn,2,Polite
+70,Other,Senior,Shorter,Skinny,No,Curly,Diplomatic,Night Owl,3,4,Low,Formal,Reddit,4,Polite
+71,Other,Senior,Medium,Medium,No,Curly,Direct,Early Bird,3,2,Low,Casual,Instagram,1,Shy
+72,Female,Senior,Medium,Skinny,No,Curly,Direct,Night Owl,2,4,Low,Casual,Twitter,4,Confident
+73,Female,Adult,Taller,Fatty,No,Straight,Reserved,Regular,4,2,Low,Formal,Instagram,4,Confident
+74,Male,Teen,Medium,Skinny,No,Straight,Diplomatic,Night Owl,2,2,Medium,Formal,Facebook,3,Polite
+75,Female,Adult,Medium,Fatty,Yes,Straight,Direct,Regular,5,3,Low,Trendy,Instagram,2,Friendly
+76,Other,Senior,Medium,Skinny,No,Wavy,Direct,Night Owl,2,5,Medium,Trendy,Discord,3,Confident
+77,Female,Teen,Medium,Fatty,No,Curly,Reserved,Regular,5,5,Low,Casual,Instagram,4,Shy
+78,Other,Teen,Medium,Fatty,No,Straight,Direct,Early Bird,5,3,Medium,Casual,LinkedIn,5,Confident
+79,Other,Adult,Shorter,Fatty,No,Straight,Direct,Night Owl,3,4,Low,Formal,Instagram,4,Shy
+80,Male,Adult,Shorter,Medium,No,Straight,Reserved,Night Owl,3,3,Low,Casual,Twitter,3,Shy
+81,Male,Adult,Shorter,Medium,No,Straight,Reserved,Regular,3,2,Low,Casual,LinkedIn,4,Shy
+82,Other,Adult,Taller,Skinny,No,Curly,Reserved,Early Bird,3,5,High,Trendy,Facebook,5,Confident
+83,Other,Senior,Shorter,Fatty,No,Straight,Reserved,Early Bird,3,4,Low,Casual,Discord,4,Shy
+84,Other,Adult,Medium,Fatty,Yes,Straight,Direct,Night Owl,4,3,High,Casual,Reddit,3,Confident
+85,Male,Senior,Shorter,Skinny,No,Straight,Direct,Early Bird,1,1,Low,Casual,Facebook,3,Shy
+86,Other,Adult,Shorter,Skinny,Yes,Straight,Diplomatic,Regular,1,4,Medium,Formal,Twitter,1,Polite
+87,Female,Teen,Medium,Skinny,No,Straight,Reserved,Regular,3,4,High,Trendy,Instagram,4,Confident
+88,Other,Senior,Shorter,Medium,No,Curly,Diplomatic,Regular,2,1,High,Casual,Instagram,3,Polite
+89,Female,Teen,Medium,Medium,No,Straight,Diplomatic,Early Bird,3,4,Low,Casual,Reddit,3,Polite
+90,Other,Adult,Medium,Fatty,Yes,Curly,Diplomatic,Night Owl,3,3,High,Casual,Facebook,2,Polite
+91,Female,Adult,Shorter,Medium,No,Wavy,Diplomatic,Early Bird,3,2,Low,Formal,Instagram,4,Polite
+92,Male,Adult,Shorter,Fatty,No,Curly,Reserved,Early Bird,5,1,Medium,Formal,Discord,3,Shy
+93,Other,Adult,Medium,Medium,No,Wavy,Reserved,Early Bird,2,2,Low,Trendy,Instagram,1,Shy
+94,Female,Adult,Taller,Fatty,Yes,Curly,Diplomatic,Night Owl,4,5,Medium,Trendy,Reddit,1,Polite
+95,Female,Adult,Shorter,Medium,No,Straight,Direct,Regular,4,4,Low,Formal,Twitter,4,Confident
+96,Female,Senior,Medium,Skinny,Yes,Straight,Direct,Night Owl,3,1,High,Casual,Instagram,3,Confident
+97,Other,Adult,Medium,Medium,No,Wavy,Reserved,Regular,4,2,Low,Trendy,Reddit,1,Shy
+98,Other,Senior,Medium,Medium,No,Wavy,Diplomatic,Early Bird,3,4,High,Formal,Discord,4,Confident
+99,Male,Adult,Medium,Fatty,No,Straight,Diplomatic,Regular,3,2,Low,Casual,Discord,3,Polite
+100,Other,Adult,Shorter,Skinny,No,Curly,Direct,Regular,4,1,Low,Trendy,Instagram,4,Friendly
+101,Male,Senior,Shorter,Medium,Yes,Straight,Diplomatic,Regular,2,3,Medium,Casual,Twitter,3,Polite
+102,Male,Teen,Medium,Medium,No,Straight,Reserved,Regular,3,3,High,Casual,LinkedIn,1,Shy
+103,Other,Adult,Shorter,Fatty,No,Straight,Direct,Regular,4,3,High,Trendy,Discord,5,Confident
+104,Female,Teen,Shorter,Skinny,Yes,Curly,Direct,Early Bird,3,2,Medium,Trendy,Facebook,4,Confident
+105,Other,Adult,Shorter,Medium,No,Wavy,Direct,Night Owl,3,4,Low,Trendy,LinkedIn,3,Shy
+106,Female,Adult,Taller,Fatty,No,Wavy,Reserved,Early Bird,3,1,High,Casual,Twitter,4,Confident
+107,Other,Adult,Taller,Medium,Yes,Wavy,Diplomatic,Early Bird,4,5,Low,Trendy,LinkedIn,1,Polite
+108,Male,Adult,Taller,Fatty,No,Straight,Direct,Night Owl,3,3,Medium,Formal,Instagram,5,Confident
+109,Other,Senior,Taller,Fatty,No,Wavy,Direct,Regular,1,2,Low,Trendy,Instagram,4,Confident
+110,Female,Adult,Shorter,Fatty,No,Straight,Diplomatic,Regular,1,2,Low,Trendy,Instagram,5,Friendly
+111,Male,Adult,Medium,Medium,No,Wavy,Reserved,Night Owl,5,1,Low,Casual,Twitter,1,Shy
+112,Other,Adult,Taller,Medium,Yes,Curly,Direct,Regular,3,5,Low,Casual,Instagram,3,Confident
+113,Male,Teen,Medium,Medium,Yes,Wavy,Direct,Regular,5,1,Medium,Trendy,Twitter,4,Confident
+114,Other,Senior,Medium,Medium,No,Wavy,Diplomatic,Early Bird,3,4,Low,Trendy,Facebook,1,Polite
+115,Other,Adult,Shorter,Medium,No,Curly,Reserved,Night Owl,2,2,Low,Formal,Discord,3,Shy
+116,Male,Adult,Medium,Fatty,No,Wavy,Direct,Early Bird,5,2,Low,Casual,Reddit,4,Confident
+117,Other,Adult,Taller,Skinny,No,Wavy,Direct,Regular,2,4,Low,Trendy,Facebook,3,Confident
+118,Other,Adult,Taller,Skinny,No,Wavy,Direct,Regular,2,3,Low,Casual,Instagram,1,Shy
+119,Other,Senior,Medium,Fatty,No,Curly,Direct,Regular,1,4,Low,Formal,Reddit,5,Confident
+120,Female,Teen,Taller,Medium,No,Wavy,Reserved,Regular,3,4,Low,Trendy,Instagram,4,Confident
+121,Other,Teen,Shorter,Medium,No,Curly,Diplomatic,Regular,3,4,Low,Trendy,Facebook,3,Friendly
+122,Other,Teen,Taller,Fatty,No,Straight,Reserved,Regular,4,2,Medium,Casual,Twitter,4,Confident
+123,Female,Adult,Medium,Medium,Yes,Wavy,Direct,Early Bird,2,3,Medium,Trendy,Facebook,1,Friendly
+124,Other,Teen,Medium,Fatty,Yes,Wavy,Diplomatic,Night Owl,3,5,Low,Casual,Facebook,2,Polite
+125,Other,Teen,Medium,Medium,Yes,Straight,Direct,Night Owl,3,3,Medium,Formal,Reddit,4,Confident
+126,Female,Adult,Shorter,Medium,No,Wavy,Direct,Night Owl,3,2,Medium,Trendy,LinkedIn,1,Shy
+127,Male,Adult,Shorter,Medium,No,Straight,Diplomatic,Regular,2,4,Low,Casual,Discord,5,Polite
+128,Other,Teen,Shorter,Medium,Yes,Wavy,Reserved,Early Bird,3,5,Medium,Trendy,LinkedIn,3,Shy
+129,Male,Adult,Taller,Fatty,No,Straight,Reserved,Regular,4,5,Low,Casual,Reddit,4,Shy
+130,Male,Teen,Shorter,Medium,No,Curly,Reserved,Night Owl,1,5,Medium,Trendy,Facebook,4,Shy
+131,Male,Adult,Medium,Skinny,Yes,Straight,Reserved,Regular,3,3,Low,Casual,LinkedIn,5,Shy
+132,Male,Adult,Taller,Medium,No,Straight,Direct,Regular,3,3,High,Formal,Instagram,2,Confident
+133,Male,Senior,Medium,Medium,No,Curly,Diplomatic,Regular,3,4,Medium,Casual,Facebook,3,Polite
+134,Male,Adult,Medium,Skinny,No,Wavy,Diplomatic,Early Bird,3,1,Low,Casual,Discord,2,Friendly
+135,Other,Senior,Medium,Medium,No,Straight,Reserved,Regular,5,1,Medium,Casual,Facebook,1,Friendly
+136,Other,Adult,Taller,Medium,Yes,Curly,Diplomatic,Regular,3,4,Low,Casual,Twitter,2,Polite
+137,Other,Teen,Shorter,Fatty,No,Wavy,Diplomatic,Early Bird,4,3,Medium,Formal,Twitter,4,Polite
+138,Other,Senior,Medium,Fatty,No,Straight,Reserved,Night Owl,2,3,Low,Formal,Facebook,2,Shy
+139,Other,Adult,Shorter,Fatty,No,Wavy,Direct,Night Owl,4,3,Medium,Casual,Facebook,4,Shy
+140,Female,Adult,Taller,Medium,Yes,Curly,Reserved,Regular,3,1,Low,Trendy,LinkedIn,5,Confident
+141,Other,Adult,Medium,Skinny,No,Straight,Direct,Early Bird,4,4,High,Casual,Twitter,3,Confident
+142,Other,Adult,Medium,Medium,No,Wavy,Diplomatic,Regular,4,2,Medium,Trendy,Facebook,3,Friendly
+143,Male,Adult,Taller,Skinny,No,Curly,Direct,Regular,4,3,Medium,Trendy,Facebook,4,Confident
+144,Other,Teen,Medium,Fatty,No,Straight,Reserved,Night Owl,3,4,Medium,Formal,Instagram,1,Shy
+145,Male,Teen,Shorter,Skinny,No,Straight,Direct,Regular,3,2,Medium,Trendy,Discord,2,Friendly
+146,Male,Adult,Taller,Fatty,No,Wavy,Reserved,Early Bird,2,4,High,Casual,Twitter,2,Shy
+147,Male,Teen,Medium,Fatty,No,Straight,Reserved,Early Bird,2,2,Low,Trendy,Reddit,3,Shy
+148,Male,Senior,Medium,Fatty,No,Curly,Diplomatic,Night Owl,3,2,Low,Casual,Twitter,3,Polite
+149,Male,Adult,Shorter,Fatty,No,Straight,Direct,Night Owl,3,3,High,Casual,Discord,2,Rude
+150,Male,Adult,Taller,Medium,No,Straight,Reserved,Early Bird,3,4,Low,Formal,Instagram,4,Confident
+151,Female,Adult,Medium,Skinny,Yes,Straight,Reserved,Regular,2,3,Low,Casual,LinkedIn,3,Shy
+152,Female,Adult,Taller,Medium,No,Straight,Diplomatic,Night Owl,2,3,Medium,Casual,Instagram,2,Polite
+153,Male,Adult,Shorter,Medium,No,Wavy,Direct,Night Owl,1,4,Medium,Formal,Instagram,1,Polite
+154,Male,Adult,Taller,Medium,No,Straight,Diplomatic,Regular,3,5,High,Casual,Instagram,4,Polite
+155,Other,Adult,Shorter,Fatty,Yes,Curly,Diplomatic,Night Owl,2,4,Low,Casual,Instagram,3,Polite
+156,Male,Teen,Taller,Fatty,No,Curly,Direct,Night Owl,2,2,Medium,Casual,Instagram,3,Confident
+157,Female,Senior,Taller,Fatty,No,Wavy,Direct,Regular,3,4,Low,Casual,Twitter,3,Confident
+158,Other,Adult,Taller,Skinny,No,Wavy,Reserved,Night Owl,3,2,High,Trendy,Instagram,3,Confident
+159,Male,Senior,Shorter,Skinny,Yes,Curly,Direct,Night Owl,1,1,Medium,Trendy,Discord,3,Friendly
+160,Other,Adult,Medium,Fatty,No,Curly,Direct,Regular,4,2,Low,Formal,Reddit,3,Confident
+161,Male,Adult,Medium,Fatty,No,Curly,Direct,Early Bird,5,4,Medium,Trendy,Reddit,2,Friendly
+162,Female,Senior,Medium,Medium,No,Wavy,Diplomatic,Night Owl,1,3,High,Casual,Facebook,4,Confident
+163,Female,Teen,Medium,Skinny,No,Curly,Reserved,Regular,3,1,High,Trendy,Reddit,1,Shy
+164,Male,Teen,Medium,Skinny,No,Wavy,Diplomatic,Early Bird,5,3,Medium,Trendy,Twitter,3,Friendly
+165,Other,Senior,Medium,Skinny,No,Straight,Diplomatic,Early Bird,4,3,Low,Casual,Twitter,4,Confident
+166,Other,Teen,Medium,Medium,No,Curly,Reserved,Early Bird,3,3,Low,Casual,Twitter,3,Shy
+167,Male,Adult,Medium,Fatty,No,Straight,Direct,Night Owl,3,3,Medium,Casual,LinkedIn,1,Rude
+168,Male,Teen,Taller,Fatty,No,Curly,Reserved,Early Bird,3,3,Medium,Formal,Twitter,3,Confident
+169,Female,Teen,Medium,Fatty,No,Straight,Direct,Early Bird,5,5,Medium,Casual,Reddit,2,Polite
+170,Other,Senior,Medium,Fatty,No,Curly,Diplomatic,Night Owl,2,5,Medium,Casual,Instagram,2,Polite
+171,Other,Adult,Medium,Medium,No,Straight,Reserved,Early Bird,4,5,Low,Trendy,LinkedIn,2,Shy
+172,Female,Adult,Shorter,Medium,No,Curly,Reserved,Regular,3,5,Low,Trendy,LinkedIn,5,Shy
+173,Male,Adult,Medium,Skinny,No,Curly,Reserved,Early Bird,3,3,Medium,Trendy,Discord,3,Confident
+174,Other,Adult,Shorter,Skinny,No,Straight,Reserved,Early Bird,3,2,Medium,Trendy,Twitter,3,Shy
+175,Other,Teen,Medium,Fatty,No,Curly,Direct,Night Owl,4,4,Low,Casual,Reddit,3,Shy
+176,Male,Adult,Shorter,Skinny,No,Straight,Diplomatic,Regular,5,3,Medium,Formal,Reddit,1,Friendly
+177,Other,Teen,Taller,Fatty,No,Straight,Direct,Early Bird,3,2,Medium,Formal,Reddit,2,Confident
+178,Female,Adult,Medium,Skinny,No,Straight,Diplomatic,Night Owl,5,5,Medium,Casual,Reddit,3,Polite
+179,Male,Teen,Medium,Skinny,Yes,Straight,Direct,Regular,4,2,High,Formal,Reddit,2,Confident
+180,Other,Adult,Taller,Medium,Yes,Wavy,Diplomatic,Night Owl,3,3,Low,Trendy,LinkedIn,2,Polite
+181,Other,Senior,Taller,Skinny,No,Wavy,Diplomatic,Night Owl,3,4,High,Trendy,LinkedIn,3,Confident
+182,Male,Teen,Shorter,Fatty,No,Wavy,Diplomatic,Early Bird,2,2,Medium,Trendy,Reddit,3,Polite
+183,Female,Adult,Shorter,Medium,No,Straight,Diplomatic,Regular,5,4,Low,Trendy,Facebook,3,Friendly
+184,Female,Teen,Taller,Fatty,No,Curly,Diplomatic,Night Owl,1,2,Medium,Trendy,Instagram,5,Confident
+185,Other,Adult,Taller,Fatty,Yes,Wavy,Direct,Regular,1,2,High,Trendy,Instagram,2,Confident
+186,Other,Senior,Medium,Medium,No,Straight,Diplomatic,Night Owl,3,1,Medium,Casual,LinkedIn,4,Polite
+187,Male,Adult,Shorter,Fatty,No,Curly,Diplomatic,Night Owl,4,4,Low,Trendy,Discord,4,Friendly
+188,Female,Adult,Taller,Skinny,No,Curly,Reserved,Regular,2,4,Medium,Casual,Facebook,3,Shy
+189,Male,Senior,Medium,Medium,No,Curly,Diplomatic,Night Owl,3,2,Low,Casual,Discord,4,Confident
+190,Male,Adult,Shorter,Skinny,No,Wavy,Diplomatic,Night Owl,3,1,High,Trendy,Instagram,4,Friendly
+191,Female,Adult,Medium,Fatty,No,Curly,Direct,Night Owl,5,3,High,Trendy,Instagram,5,Confident
+192,Other,Teen,Medium,Medium,No,Straight,Direct,Regular,4,2,High,Trendy,Reddit,2,Confident
+193,Male,Adult,Shorter,Medium,No,Wavy,Reserved,Regular,3,3,Medium,Formal,Discord,3,Shy
+194,Female,Teen,Medium,Skinny,No,Wavy,Reserved,Regular,5,3,Low,Casual,Reddit,5,Shy
+195,Other,Adult,Medium,Fatty,No,Wavy,Direct,Night Owl,3,2,Medium,Formal,Reddit,3,Confident
+196,Other,Teen,Taller,Medium,Yes,Wavy,Diplomatic,Regular,3,4,Medium,Trendy,LinkedIn,3,Polite
+197,Male,Teen,Medium,Medium,No,Straight,Direct,Early Bird,3,2,Low,Trendy,Twitter,2,Confident
+198,Other,Adult,Taller,Skinny,Yes,Wavy,Direct,Night Owl,2,5,Medium,Casual,Facebook,3,Confident
+199,Other,Senior,Taller,Fatty,No,Straight,Direct,Night Owl,2,4,High,Formal,Reddit,3,Confident
+200,Other,Teen,Taller,Medium,No,Curly,Diplomatic,Night Owl,3,5,Medium,Casual,Twitter,3,Polite
