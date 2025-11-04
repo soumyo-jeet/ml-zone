@@ -1,0 +1,19 @@
+# === Core LangChain + Google GenAI Chatbot ===
+langchain==0.3.3
+langchain-core==0.3.15
+langchain-google-genai==2.0.0
+
+# === Google Generative AI SDKs (Gemini) ===
+google-generativeai==0.7.2
+google-ai-generativelanguage==0.6.6
+
+# === Utilities ===
+python-dotenv==1.0.1
+tqdm>=4.67.1
+protobuf>=4.25.3
+pydantic>=2.11.0
+typing-extensions>=4.10.0
+
+
+# === Optional: If you use async / streaming ===
+aiohttp>=3.9.0
